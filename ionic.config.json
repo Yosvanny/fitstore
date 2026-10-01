@@ -1,0 +1,7 @@
+{
+  "name": "fitstore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
